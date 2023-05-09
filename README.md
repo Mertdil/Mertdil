@@ -17,14 +17,14 @@ or use it. It helps me a lot.
 <body style="background-color:WhiteSmoke;">
 
 <h1 align="center">Welcome To My  Profile👇 </h1>
-<img src = ""/>
+
   
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=700&vCenter=true&width=510&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Mert+;Physics+Engineer++%F0%9F%94%AD%2C+Data+Analyst+%F0%9F%93%89;+Loves+To+Build+ML+Models%E2%9C%A8;Data+Scientist+%F0%9F%8E%B2%2CDeep+Learning+Enthusiast%F0%9F%92%A1;Talks+About+AI+Solutions+and+Physics%F0%9F%95%B5" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Prathima;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Key+Note+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
 </p> 
 
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
 
 
   
@@ -49,7 +49,7 @@ I am a Physics Engineer   <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Possess strong skills in data analysis, modeling, and visualization, coupled with the ability to communicate technical findings to non-technical stakeholders. 
 
-- :zap: In my free time, I take online courses or attend workshops to develop new skills in AI.
+- :zap: In my free time, Physics and Philosophy nerdy. We don’t need astrology subjects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mertdil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mertdil)
 
