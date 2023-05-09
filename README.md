@@ -16,7 +16,7 @@ or use it. It helps me a lot.
 
 <body style="background-color:WhiteSmoke;">
 
-<h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
+<h1 align="center">Welcome To My  Profile👇 </h1>
 <img src = ""/>
   
 <p align="center">
@@ -40,6 +40,7 @@ Expanding my knowledge in AI solutions and apply my skills to real-world problem
 <div align="center">
   <img src="https://media.giphy.com/media/IMdS79sQINRAY/giphy.gif?cid=ecf05e476kqgiiq12ae7ryu081fozfxj8c4ai6lzgzn0ettw&rid=giphy.gif&ct=g" width="400" height="300"/>
 </div>
+  
 ### :technologist: My Highlights :
 
 I am a Physics Engineer   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
