@@ -9,23 +9,32 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-</div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mertdil&style=flat-square&color=blue" alt=""/>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+<body style="background-color:WhiteSmoke;">
+
+<h1 align="center">Welcome To My Code World👇 </h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&vCenter=true&width=510&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Mert+;Physics+Engineer++%F0%9F%94%AD%2C+Data+Analyst+%F0%9F%93%89;+Loves+To+Build+ML+Models%E2%9C%A8;Data+Scientist+%F0%9F%8E%B2%2CDeep+Learning+Enthusiast%F0%9F%92%A1;Talks+About+AI+Solutions+and+Physics%F0%9F%95%B5" alt="Typing SVG" /></a>
+
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
+Hey👋, I'm Mert Dil,as a Physics Engineer graduate, over 2 years of experience in developing and implementing machine learning algorithms and predictive models for diverse industries. 
+Expanding my knowledge in AI solutions and apply my skills to real-world problems in a dynamic and challenging work environment. <br>
+"There’s a whole world out there that is waiting to be explored!" <br>
+
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/IMdS79sQINRAY/giphy.gif?cid=ecf05e476kqgiiq12ae7ryu081fozfxj8c4ai6lzgzn0ettw&rid=giphy.gif&ct=g" width="400" height="300"/>
 </div>
 
 
-### :technologist: About Me :
+### :technologist: My Highlights :
 
 I am a Physics Engineer   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :telescope: I’m working as a Data Analyst and exploring the vast potential of data 
+- :telescope: I’m working as a Data Analyst and exploring the vast potential of data. 
 
 - :seedling: Applying my skills in AI solutions to tackle real-world challenges. 
 
