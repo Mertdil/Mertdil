@@ -24,6 +24,8 @@ or use it. It helps me a lot.
 </p> 
 
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
   
 Hey👋, I'm Mert Dil,as a Physics Engineer graduate, over 2 years of experience in  implementing machine learning algorithms and predictive models for diverse industries. <br>
