@@ -48,6 +48,7 @@ I am a Physics Engineer   <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :telescope: Proficient in utilizing advanced analytics tools and techniques to drive insights, identify trends, and address complex business challenges. 
 
 - :seedling: Possess strong skills in data analysis, modeling, and visualization, coupled with the ability to communicate technical findings to non-technical stakeholders. 
+- :writing_hand: Extensive experience in effectively managing end-to-end projects, including procurement, and delivering results-oriented solutions.
 
 - :zap: In my free time, Physics and Philosophy nerdy. We don’t need astrology subjects.
 
