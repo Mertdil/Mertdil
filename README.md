@@ -28,7 +28,7 @@ or use it. It helps me a lot.
 
 
   
-Hey👋, I'm Mert Dil,as a Physics Engineer graduate, over 2 years of experience in  implementing machine learning algorithms and predictive models for diverse industries. <br>
+Hey👋, I'm Mert Dil,as a Physics Engineer graduate, over 3 years of experience in  implementing machine learning algorithms and predictive models for diverse industries. <br>
   
 Expanding my knowledge in AI solutions and apply my skills to real-world problems in a dynamic and challenging work environment. <br>
   
