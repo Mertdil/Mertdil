@@ -50,13 +50,13 @@ I'm **Mert Dil**, a Physics Engineer based in Munich 🇩🇪. I combine my deep
 - **Project**: Predictive solar wind forecasting using LSTM networks.
 - **Tech stack**: Python, Keras, Pandas, Scikit-learn.
 - **Outcome**: Achieved >90% prediction accuracy in real-world data from energy sector.
-- [🔗 GitHub Repo](https://github.com/Mertdil/LSTM-time-series-prediction)
+- [🔗 GitHub Repo](https://github.com/Mertdil/Forecast-Time-Series-using-Space-Enviroment-)
 
 #### 🧠 Image Detection with Deep Learning
 - **Project**: Built an image classification pipeline with CNN + OpenCV.
 - **Tech stack**: Python, TensorFlow, OpenCV.
 - **Outcome**: Trained a robust model for multiclass object detection.
-- [🔗 GitHub Repo](https://github.com/Mertdil/image-detection-deeplearning)
+- [🔗 GitHub Repo](https://github.com/Mertdil/CompCars-Dataset-for-Solving-Vehicle-Background-Replacement-Problem-A-Meta-Analysis)
 
 ---
 
