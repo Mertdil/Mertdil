@@ -47,7 +47,7 @@ I'm **Mert Dil**, a Physics Engineer based in Munich 🇩🇪. I combine my deep
 ### 🚀 Featured Projects
 
 #### 🔁 LSTM-based Time Series Forecasting
-- **Project**: Energy demand forecasting using LSTM networks.
+- **Project**: Predictive solar wind forecasting using LSTM networks.
 - **Tech stack**: Python, Keras, Pandas, Scikit-learn.
 - **Outcome**: Achieved >90% prediction accuracy in real-world data from energy sector.
 - [🔗 GitHub Repo](https://github.com/Mertdil/LSTM-time-series-prediction)
