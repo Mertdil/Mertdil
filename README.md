@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Mert Dil**, a Physics Engineer based in Munich 🇩🇪. I combine my deep interest in **physics**, **machine learning**, and **astrophysics** to solve real-world problems.
+I'm **Mert Dil**, a Physics Engineer and Student at TUM based in Munich 🇩🇪. I combine my deep interest in **physics**, **machine learning**, and **data driven physics proglems** to solve real-world problems with effective long term goals.
 
 - 🌌 Master's student in Physics at **TUM** (Technical University of Munich).
 - 👨‍🔬 Strong academic foundation and industry experience in **data science**, **AI**, and **deep learning**.
